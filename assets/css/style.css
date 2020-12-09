@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: black;
 }
 
 .mobile-nav {
@@ -347,6 +347,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/naslovna.png") top center;
   background-size: cover;
   position: relative;
+  top: 100px;
   margin-bottom: -90px;
 }
 
