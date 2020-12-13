@@ -122,13 +122,13 @@ h1, h2, h3, h4, h5, h6 {
   white-space: nowrap;
   float: left;
   /* background: rgba(255, 255, 255, 0.2); */
-  background: #67b0d1;
+  background: #000000;
 }
 
 .nav-menu a {
   display: block;
   position: relative;
-  color: #2f4d5a;
+  color: #fff;
   padding: 20px 15px;
   transition: 0.3s;
   font-size: 13px;
@@ -378,6 +378,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #fff;
   margin-bottom: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
   font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
